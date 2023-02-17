@@ -1,2 +1,14 @@
 public se usa para guardar recursos estáticos como imagenes y en src estará el código de nuestra app
 index.js es el punto de entrada de la app
+un componente es declarar una función, su nombre empieza en mayúscula. El retorno es JSS, no html, que pasa por un traspilador llamado babel
+
+Babel transforma el codigo jsx a js.
+
+reactDom instala las dependencias necesarias para renderizar react. 
+ReactDom.render renderiza el componente
+
+dentro del componente se puden crear variables
+
+NO CREAR COMPONENTES DENTRO DE COMPONENTES.
+
+A los componentes se le pueden pasar parámetros, que en react se llaman props
