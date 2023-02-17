@@ -1,0 +1,2 @@
+public se usa para guardar recursos estáticos como imagenes y en src estará el código de nuestra app
+index.js es el punto de entrada de la app
